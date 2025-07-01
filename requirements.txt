@@ -1,0 +1,10 @@
+langchain>=0.1.16
+langchain-community>=0.0.34
+langchain-huggingface>=0.0.4
+transformers>=4.41.0
+sentence-transformers>=2.7.0
+faiss-cpu>=1.7.4
+pypdf>=3.17.4
+streamlit>=1.35.0
+tiktoken>=0.7.0
+openai>=1.30.0
