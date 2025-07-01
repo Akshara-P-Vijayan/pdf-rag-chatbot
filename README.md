@@ -41,4 +41,7 @@ Chat with your PDF files using Retrieval-Augmented Generation (RAG), powered by 
 
 ---
 
-## 🧪 Example Question
+## 🔗 Live Demo
+
+Try the chatbot here:  
+👉 [Chat with your PDF]([https://pdf-rag-chatbot-ldcappfb5kzjvyeukmcyzfw.streamlit.app](https://pdf-pal-chatwithpdf.streamlit.app/))
